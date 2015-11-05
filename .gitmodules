@@ -1,0 +1,3 @@
+[submodule "LeidenPlusEditor"]
+	path = LeidenPlusEditor
+	url = https://github.com/fmcc/LeidenPlusEditor.git
